@@ -42,6 +42,8 @@ namespace Git_Sample
         protected override void OnLaunched(LaunchActivatedEventArgs args)
         {
             int g;
+            g = 7;
+
 
             Frame rootFrame = Window.Current.Content as Frame;
 

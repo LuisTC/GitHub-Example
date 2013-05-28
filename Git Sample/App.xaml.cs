@@ -43,6 +43,7 @@ namespace Git_Sample
         {
             int g;
             g = 7;
+            int y = 6;
 
 
             Frame rootFrame = Window.Current.Content as Frame;
